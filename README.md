@@ -6,6 +6,7 @@ Unordered list :
 - Karachi
 * Islamabad
 + Lahore
+
 Ordered list :
 1. Karachi
 2. Islamabad
