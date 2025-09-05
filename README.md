@@ -11,6 +11,7 @@ Ordered list :
 2. Islamabad
 3. Lahore
 4. Sialkot
+
 *This text is italic*\
 **This text is bold**\
 ***This text is both bold and italics***
